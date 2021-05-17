@@ -1,13 +1,13 @@
 Daniel Valdés Artiles
-##Comandos basicos para Bash Shell
+## Comandos basicos para Bash Shell
 
-#¿Qué es Bash Shell?
+# ¿Qué es Bash Shell?
 
 *Bash Shell* es un lenguaje de instrucciones determiandas a archivos en una memoria local,
 se puede usar para modificar, generar o borrar archivos de la memoria local
 desde la consola de comandos 
 
-#Algunos de los comandos basicos para Bash Shell:
+# Algunos de los comandos basicos para Bash Shell:
 
 ´´´sh
 *comando // Función*
